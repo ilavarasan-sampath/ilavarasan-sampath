@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:timeline_tile/timeline_tile.dart';
-import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:styled_text/styled_text.dart';
 import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
