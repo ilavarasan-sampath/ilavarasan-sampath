@@ -1,0 +1,13 @@
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/resume
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/semp/programs/flutter/resume/build/linux/x64/debug/bundle/data/flutter_assets/asset/image.png
